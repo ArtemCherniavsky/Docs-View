@@ -1,4 +1,4 @@
-# Stimulsoft Reports.Angular — Developer FAQ
+# Stimulsoft Reports.ANGULAR — FAQ
 
 Quick answers for developers integrating the Stimulsoft Angular Viewer and Designer into ASP.NET + Angular applications.
 

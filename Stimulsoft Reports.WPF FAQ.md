@@ -1,4 +1,4 @@
-# Stimulsoft Reports.WPF — Developer FAQ
+# Stimulsoft Reports.WPF — FAQ
 
 Quick answers for developers integrating Stimulsoft Reports into WPF applications.
 

@@ -1,4 +1,4 @@
-# Stimulsoft Reports.JAVA Developer FAQ
+# Stimulsoft Reports.JAVA — FAQ
 
 ## Table of Contents
 

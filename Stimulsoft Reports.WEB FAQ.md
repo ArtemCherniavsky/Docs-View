@@ -1,4 +1,4 @@
-# Stimulsoft Reports.WEB for ASP.NET — Developer FAQ
+# Stimulsoft Reports.WEB — FAQ
 
 Quick answers for developers integrating Stimulsoft Reports.WEB into ASP.NET Web Forms applications.
 

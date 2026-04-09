@@ -1,4 +1,4 @@
-# Stimulsoft Reports.NET — Developer FAQ
+# Stimulsoft Reports.NET — FAQ
 
 Quick answers for developers integrating Stimulsoft Reports.NET into WinForms applications.
 

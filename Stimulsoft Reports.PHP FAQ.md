@@ -1,4 +1,4 @@
-# Stimulsoft Reports.PHP — Developer FAQ
+# Stimulsoft Reports.PHP — FAQ
 
 Quick answers for developers integrating Stimulsoft Reports.PHP into PHP applications.
 

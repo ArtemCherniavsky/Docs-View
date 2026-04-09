@@ -1,4 +1,4 @@
-# Stimulsoft Reports.JS — Developer FAQ
+# Stimulsoft Reports.JS — FAQ
 
 Quick answers for developers integrating Stimulsoft Reports.JS into web applications.
 

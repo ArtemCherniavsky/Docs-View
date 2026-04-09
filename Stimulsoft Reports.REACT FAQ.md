@@ -1,4 +1,4 @@
-# Stimulsoft Reports.React — Developer FAQ
+# Stimulsoft Reports.REACT — FAQ
 
 Quick answers for developers integrating the Stimulsoft React Viewer into ASP.NET + React applications.
 

@@ -1,4 +1,4 @@
-# Stimulsoft Reports.Blazor — Developer FAQ
+# Stimulsoft Reports.BLAZOR — FAQ
 
 Quick answers for developers integrating Stimulsoft Reports into Blazor Server applications.
 
